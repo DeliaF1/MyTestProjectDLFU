@@ -1,0 +1,32 @@
+[33mcommit c4191552cf8e25bf8d4225db75e355255df4dd49[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: DeliaF1 <70329276+DeliaF1@users.noreply.github.com>
+Date:   Thu Aug 27 15:43:23 2020 +0200
+
+    Add files via upload
+
+[1mdiff --git a/Doc1.txt b/Doc1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..af39af1[m
+[1m--- /dev/null[m
+[1m+++ b/Doc1.txt[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mThis is the first doc of my project[m[41m [m
+[32m+[m	[32msum(A:B) *100[m
+\ No newline at end of file[m
+[1mdiff --git a/Doc2.txt b/Doc2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..718245f[m
+[1m--- /dev/null[m
+[1m+++ b/Doc2.txt[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mThis is the second doc of my project[m[41m [m
+[32m+[m	[32msum(C:D) *100[m
+\ No newline at end of file[m
+[1mdiff --git a/Doc3.txt b/Doc3.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..30d74d2[m
+[1m--- /dev/null[m
+[1m+++ b/Doc3.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mtest[m
+\ No newline at end of file[m
